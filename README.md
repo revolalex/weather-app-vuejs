@@ -1,5 +1,13 @@
 # vue-weather
 
+## Introduction
+> Learn how to make a Weather app in Vue JS, we use the Open Weather Map API to make calls to a restful api to return the current weather data. This uses the Modern Javascript Fetch API along with Vue JS Methods and conditionals.
+---
+
+## Screenshot
+<img width="400" alt="Capture d’écran" src="https://user-images.githubusercontent.com/56839789/90311960-b94c4980-df00-11ea-9cda-93f539a7092e.gif">
+
+
 ## Project setup
 ```
 npm install
